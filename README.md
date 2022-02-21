@@ -1,9 +1,8 @@
-## Olá! Eu sou Vitor Silva 👋
+## Olá! Eu sou Vitor Yago 👋
 
 
-- 🔭 Ainda não trabalho na área de programação
-- 🌱 Faço faculdade de Sistema da Informação, estou no 4° período
-- 👓 Estudando Python
+- 🔭 Estagiário de Desenvolvimento de Software
+- 🌱 Faço faculdade de Sistema da Informação, estou no 5° período
 - 📫 vitoryago220@gmail.com
 
  <div>
@@ -16,6 +15,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   <br>
