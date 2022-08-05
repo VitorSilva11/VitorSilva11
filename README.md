@@ -1,8 +1,8 @@
 ## Olá! Eu sou Vitor Yago 👋
 
 
-- 🔭 Estagiário de Desenvolvimento de Software
-- 🌱 Faço faculdade de Sistema da Informação, estou no 5° período
+- 🔭 Software Develop
+- 🌱 Faço faculdade de Sistema da Informação, estou no 6° período
 - 📫 vitoryago220@gmail.com
 
  <div>
