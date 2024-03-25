@@ -2,7 +2,7 @@
 
 
 - 🔭 Software Develop
-- 🌱 Faço faculdade de Sistema da Informação, estou no 6° período
+- 🌱 Graduado em Sistema de informção
 - 📫 vitoryago220@gmail.com
 
  <div>
